@@ -14,7 +14,7 @@ Ele se encontra no mercado de Beleza e bem-estar, de acordo com a pesquisa [Seto
 
 Devido ao crescimento do setor de beleza e estética, torna-se essencial analisar os dados gerados pelo negócio para responder a perguntas importantes, como: **Quantos atendimentos foram realizados?**, **Em quais pontos o negócio está apresentando falhas?** e **Como é possível expandir a empresa de forma eficiente?**. Nesse contexto, a análise de dados desempenha um papel fundamental, permitindo que gestores tomem decisões mais estratégicas e fundamentadas. Para isso, é indispensável a utilização de um banco de dados estruturado, capaz de armazenar, organizar e disponibilizar as informações de forma segura e eficiente.
 
-## Fase 2: Modelagem Conceitual do banco de dados
+## Fase 2: Modelagem Conceitual do banco de dados (UML)
 
 - Entregável: Diagrama Entidade-Relacionamento (DER), chaves primárias, chaves estrangeiras, relacionamentos, atributos mais relevantes.
 
