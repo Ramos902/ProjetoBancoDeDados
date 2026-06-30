@@ -90,3 +90,9 @@ erDiagram
 - Entregável: Script SQL de criação do schema (CREATE DATABASE, CREATE
 TABLE, constraints, índices). + Script de povoamento (INSERT) com dados de
 teste relevantes (mínimo 30-50 registros por tabela principal).
+
+## Fase 4: Consultas e Business Intelligence no Banco
+
+- Entregável: Arquivo .sql com pelo menos 10 consultas analíticas complexas
+(usando JOIN, agregações, subconsultas, views, etc.) que servirão de base
+para o dashboard.
