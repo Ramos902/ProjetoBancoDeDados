@@ -2,6 +2,9 @@
 
 ## Fase 1: Justificativa/Embasamento
 
+- Entregável: Desenvolver um texto, explicando sobre o assunto abordado,
+tipo de negócio, quais mercados, tipo de segmento, o que faz. 
+
 1. O que é o negócio?
 
 O setor de salões de beleza e estética é composto por empresas e profissionais que oferecem serviços e comercializam produtos relacionados aos cuidados com a aparência, saúde e bem-estar. Entre os principais serviços estão cortes de cabelo, manicure, pedicure, maquiagem, tratamentos estéticos, depilação, entre outros procedimentos voltados à estética pessoal.
@@ -81,3 +84,9 @@ erDiagram
     Agendamento ||--o{ Procedimento_Agendamento : ""
     Procedimento ||--o{ Procedimento_Agendamento : ""
 ```
+
+## Fase 3: Implementação do Banco de Dados
+
+- Entregável: Script SQL de criação do schema (CREATE DATABASE, CREATE
+TABLE, constraints, índices). + Script de povoamento (INSERT) com dados de
+teste relevantes (mínimo 30-50 registros por tabela principal).
