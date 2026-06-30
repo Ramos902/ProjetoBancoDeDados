@@ -4,11 +4,6 @@
 -- =============================================
 
 -- =============================================
--- FASE 4: Consultas e Business Intelligence
--- Projeto: Salão de Beleza / Estética
--- =============================================
-
--- =============================================
 -- VIEW 1: Visão consolidada de cada agendamento
 -- Base reutilizada pelas demais consultas
 -- =============================================

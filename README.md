@@ -90,9 +90,38 @@ erDiagram
 - Entregável: Script SQL de criação do schema (CREATE DATABASE, CREATE
 TABLE, constraints, índices). + Script de povoamento (INSERT) com dados de
 teste relevantes (mínimo 30-50 registros por tabela principal).
+    - [Script de criação do banco](script_db.sql)
+    - [Script de povoamento](script_povoamento.sql)
 
 ## Fase 4: Consultas e Business Intelligence no Banco
 
 - Entregável: Arquivo .sql com pelo menos 10 consultas analíticas complexas
 (usando JOIN, agregações, subconsultas, views, etc.) que servirão de base
 para o dashboard.
+    - [Script de consultas analíticas](script_consultas.sql)
+
+
+## Autores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ramos902">
+        <img src="https://github.com/Ramos902.png" width="80" height="80" style="border-radius:50%"/><br>
+        <sub><b>João Pedro</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FernandoNino38">
+        <img src="https://github.com/FernandoNino38.png" width="80" height="80" style="border-radius:50%"/><br>
+        <sub><b>Fernando</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Buenno0">
+        <img src="https://github.com/Buenno0.png" width="80" height="80" style="border-radius:50%"/><br>
+        <sub><b>Mateus</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
